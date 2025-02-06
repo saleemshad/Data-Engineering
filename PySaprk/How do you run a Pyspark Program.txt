@@ -1,9 +1,0 @@
-how to run a Pyspark Program
-
-1. Create and Initializae Spark Context/Session using the boiler plate code
-2. Load the data into the data lake/hdfs
-2. Read the data using spark that will create a base rdd
-3. Decide transformation that needs to be done
-4. Import required libraries that required while transforming the data
-5. create transformations on the rdd
-6. Save the result back to data lake/hdfs in an output folder
